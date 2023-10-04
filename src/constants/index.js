@@ -152,7 +152,7 @@ const projects = [
     id: "project-2",
     name: "Fizbo",
     description:
-      "React app to find local homes for sale. Implimentation of 3rd party AP is used. Account creation and user authorization is utilized.",
+      "React app to find local homes for sale. A 3rd party API is implimented and Account Creation/User Authorization is incorporated.",
     tags: [
       {
         name: "react",
