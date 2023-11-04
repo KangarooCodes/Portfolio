@@ -116,7 +116,7 @@ const experiences = [
     date: "2018 - 2023",
   },
   {
-    title: "Fullstack Software Engineer",
+    title: "Fullstack Software Engineer Graduate",
     company_name: "University of Maryland",
     icon: kelhel,
     iconBg: "#333333",
@@ -175,7 +175,7 @@ const projects = [
     id: "project-3",
     name: "Bankly",
     description:
-      "I was given a broken Node.js application and needed to use Express.js to complete the app and squash all bugs. Tests and detailed documentation was recorded for stability and readability.",
+      "I was given a broken Node.js application and needed to use Express.js to complete the app and squash all bugs. Tests and detailed documentation recorded for stability and readability.",
     tags: [
       {
         name: "nextjs",
